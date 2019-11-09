@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-            Привет Реакт!!!!
+            Привет Реакт!
         </a>
       </header>
     </div>
